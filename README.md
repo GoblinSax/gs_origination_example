@@ -1,17 +1,17 @@
 # NFTFI x GoblinSax Orgination Example
 
 
-NFTFI is a P2P lending protocol that allows borrowers to take out a loan from a lender. Usually a borrower goes onto nftfi.com, approves and lists their nft with their desired terms. Once, lender make an offer to your nft, borrower and initiate a loan. 
+NFTFI is a P2P lending protocol that allows borrowers to take out a loan from a lender. Usually a borrower goes onto nftfi.com, approves and lists their nft with their desired terms. Once, lender makes an offer for your nft, borrower can initiate a loan. 
 
-With NFTFI V2 if borrower has an offer then they can "acceptOffer" with their loan term and initiate a loan instantly! 
+With NFTFI V2 if a borrower has an offer then they can "acceptOffer" with loan term provided by lender and initiate a loan instantly! 
 
 This opens the gates to new nft financialization products to be build on top of NFTFI outside of its primary p2p loan use case such as vaults, derivatives, and much more!
 
-Usually borrower intiate a loan by calling "acceptOffer" with "private offer" that they get from a lender after they value your nft. However, now with GS Orgination API, borrower can get offers instantly via and api to initiate a loan!
+Usually borrower intiates a loan by calling "acceptOffer" with "private offer" that they recieve from a lender after they value borrower's nft. However, now with GS Orgination API, borrower can get offers instantly via an api to initiate a loan!
 
 ### What is this Example
 
-This example shows you you how to take out instant loan on rinkeby(forked hardhat environment) using terms offered by GS Orgination API for MNFT acquired from faucet.paradigm.xyz 
+This example shows you  how to take out an instant loan on rinkeby (forked hardhat environment) using terms offered by GS Orgination API for MNFT acquired from faucet.paradigm.xyz 
 
 Steps:
 - acquire MNFT, ETH, and WETH from faucet.paradigm.xyz for rinkeby
