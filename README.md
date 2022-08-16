@@ -27,7 +27,7 @@ ORGINATION_API_BASE_URL="https://sdm6h8zgmd.execute-api.us-east-1.amazonaws.com/
 - `npx hardhat test` to see the example code working 
 
 ### Resources 
-
+- [NFTFI sdk](https://github.com/NFTfi-Genesis)
 - [NFTFI mainnet](https://app.nftfi.com/)
 - [NFTFI rinkeby](https://beta.nftfi.com/)
 - [NFTFI Discord](https://discord.gg/nftfi)
